@@ -17,6 +17,7 @@ __pycache__/
 *.pyd
 env/
 .venv/
+.venv-*/
 venv/
 ENV/
 .Python
@@ -54,6 +55,5 @@ out/
 *.azuredevops
 
 # Github
-.github/
 parameters.json
 .azure
