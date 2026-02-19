@@ -46,6 +46,9 @@ out/
 *.swp
 *.swo
 
+# Local documentation (not for GitHub)
+local-docs/
+
 # Secret files
 .env
 .env.*
